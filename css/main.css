@@ -2,12 +2,16 @@ body {
   background-color: #17264f;
   color: #bbb;
   font-family: 'Montserrat', sans-serif;
-  font-size: 5rem;
+
   word-wrap: break-word;
+}
+
+main {
+  max-width: 24rem;
+  margin: auto;
 }
 
 .xp {
   font-family: 'Archivo Black', sans-serif;
   color: #fff;
-    font-size: 8rem;
 }
