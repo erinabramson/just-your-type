@@ -1,9 +1,9 @@
 body {
   background-color: #17264f;
   color: #bbb;
-  font-family: 'Montserrat', sans-serif;
-
+  font-family: 'Archivo Black', sans-serif;
   word-wrap: break-word;
+  text-align: center;
 }
 
 main {
@@ -11,7 +11,17 @@ main {
   margin: auto;
 }
 
+.bg {
+  background-color: #000;
+}
+
+em {
+  font-style: normal;
+  color: #fff
+
+}
+
 .xp {
-  font-family: 'Archivo Black', sans-serif;
-  color: #fff;
+  color: #fc0;
+  font-family: 'Days One', sans-serif;
 }
