@@ -1,9 +1,8 @@
 body {
   background-color: #17264f;
   color: #bbb;
-  font-family: 'Arvo', serif;
+  font-family: "Arvo", serif;
   text-align: center;
-  font-weight: 700;
 }
 
 main {
@@ -17,14 +16,13 @@ main {
 }
 
 em {
-  font-style: normal;
   color: #fc0;
-  font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
 }
 
 .xp {
   color: #fff;
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   background-color: #e95420;
   border-radius: 0 0 0 1.5em;
 }
