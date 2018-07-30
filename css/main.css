@@ -11,17 +11,23 @@ main {
   margin: auto;
 }
 
-.bg {
-  background-color: #000;
+.tophalf {
+  background-color: #fff;
+  border-radius: 0 2em 0 0;
+
 }
 
 em {
   font-style: normal;
-  color: #fff
+  color: #fc0
 
 }
 
 .xp {
-  color: #fc0;
+  color: #fff;
   font-family: 'Days One', sans-serif;
+  background-color: #e95420;
+  font-size: 8rem;
+  border-radius: 0 0 0 1em;
+
 }
