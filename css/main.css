@@ -1,33 +1,30 @@
 body {
   background-color: #17264f;
   color: #bbb;
-  font-family: 'Archivo Black', sans-serif;
-  word-wrap: break-word;
+  font-family: 'Arvo', serif;
   text-align: center;
+  font-weight: 700;
 }
 
 main {
-  max-width: 24rem;
+  max-width: 22rem;
   margin: auto;
 }
 
 .tophalf {
   background-color: #fff;
-  border-radius: 0 2em 0 0;
-
+  border-radius: 0 1.5em 0 0;
 }
 
 em {
   font-style: normal;
-  color: #fc0
-
+  color: #fc0;
+  font-family: 'Dancing Script', cursive;
 }
 
 .xp {
   color: #fff;
-  font-family: 'Days One', sans-serif;
+  font-family: 'Press Start 2P', cursive;
   background-color: #e95420;
-  font-size: 8rem;
-  border-radius: 0 0 0 1em;
-
+  border-radius: 0 0 0 1.5em;
 }
